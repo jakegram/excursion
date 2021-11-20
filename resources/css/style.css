@@ -1,3 +1,9 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: veranda;
+}
+
 h1 {
     font-family: Verdana;
     color:white;
@@ -14,7 +20,7 @@ h2 {
     font-weight: 300;
 }
 
-.download {
+.downloads {
     font-family: Verdana;
     color:aquamarine;
     text-align: center;
